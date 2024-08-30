@@ -1,4 +1,4 @@
-CsharpNlpToSql
+# CsharpNlpToSql
 
 Console application shows how a Semantic Kernel plugin can be used to support the model to query a SQL View.
 
