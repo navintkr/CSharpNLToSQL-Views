@@ -1,6 +1,6 @@
-# Using planner
+CsharpNlpToSql
 
-The `CsharpNlpToSql` console application shows how a Semantic Kernel plugin can be used to support the model to query a SQL View.
+Console application shows how a Semantic Kernel plugin can be used to support the model to query a SQL View.
 
 ## Prerequisites
 
